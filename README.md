@@ -1,6 +1,4 @@
  Hi there I am shubham 👋
- 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android apps
 - 🌱 I’m currently learning android best practices
