@@ -8,7 +8,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shubham423&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham423&layout=compact">
 
-![Shubham's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shubham423&theme=tokyonight)
-
 ![Shubham GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubham423&theme=tokyonight)
 
